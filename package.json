@@ -7,7 +7,7 @@
     "start": "node server.js",
     "test": "mocha --reporter spec"
   },
-  "author": "Joshen Shevin",
+  "author": "Nipuna Thathsara",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
